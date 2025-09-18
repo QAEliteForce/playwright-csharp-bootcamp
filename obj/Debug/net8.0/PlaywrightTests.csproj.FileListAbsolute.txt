@@ -441,3 +441,4 @@ C:\Users\pc\PlaywrightTests\obj\Debug\net8.0\refint\PlaywrightTests.dll
 C:\Users\pc\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
 C:\Users\pc\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
 C:\Users\pc\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+C:\Users\pc\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.sourcelink.json
